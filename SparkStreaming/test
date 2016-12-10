@@ -1,1 +1,7 @@
 My first question ends here !!
+git clone -a -m "I have done changes"
+git push 
+
+
+"After adding the files locally"
+git add .
