@@ -1,11 +1,10 @@
 package sparkstreaming
 
-import scala.App
 
-class print {
+object print {
   
-  def main extends App(args: Array[String]) {
-  print("Sooper")
+  def main (args: Array[String]) {
+  println("Sooper")
   }
   
   
