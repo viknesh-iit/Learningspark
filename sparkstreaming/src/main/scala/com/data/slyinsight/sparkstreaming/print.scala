@@ -1,0 +1,5 @@
+package sparkstreaming
+
+class print {
+  
+}
