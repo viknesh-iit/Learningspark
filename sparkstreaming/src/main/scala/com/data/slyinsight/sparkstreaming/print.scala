@@ -1,4 +1,4 @@
-package sparkstreaming
+package com.data.slyinsight.sparkstreaming
 
 
 object print {
